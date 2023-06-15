@@ -72,6 +72,7 @@ After reading this I ask one more time chatgpt to write a python script for me :
 
 # Script 
 
+Open the script file
 
 
 # Finally the flag
