@@ -75,6 +75,6 @@ After reading this I ask one more time chatgpt to write a python script for me :
 Open the script file
 
 
-# Finally the flag
+# Finally the flag is 
 
 Hackfest{rsa_4s_Vu3lnerb4l}
