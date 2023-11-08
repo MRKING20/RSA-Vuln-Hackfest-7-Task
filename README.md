@@ -17,6 +17,8 @@ I hope this helps you
 Good Luck !
 Author: 𝕷a_3𝖋𝖚𝖋#5148
 
+# Solution:
+
 When I encountered the problem, I turned to ChatGPT for assistance, and it provided me with a more detailed explanation of the problem:
 
 To decrypt the RSA-encrypted messages, you need to find the corresponding private keys for each message. In RSA, the private key consists of the modulus (module) and the private exponent (d). Since you know that the public exponent (e) used for encryption is 3, you can calculate the private exponent (d) using the Extended Euclidean Algorithm. Here's how you can decrypt the messages:
